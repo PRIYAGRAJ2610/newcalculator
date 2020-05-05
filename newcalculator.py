@@ -1,30 +1,24 @@
-#this a simple program to make a calculator 
+#this a simple program to make a calculator
 print("*********************************************calculator by prs***********************************************************")
 while True :
     print("select operation :")
     print("***********************************************")
-    print("\n"*2)
+    print("\n")
     print("1.add :")
     print("***********************************************")
-    print("\n"*1)
     print("2.subtract:")
     print("***********************************************")
-    print("\n"*1)
     print("3.multiply :")
     print("***********************************************")
-    print("\n"*1)
     print("4.divide :")
     print("***********************************************")
     print("\n"*1)
     print("5. square :")
     print("***********************************************")
-    print("\n"*1)
     print("6. squareroot :")
     print("***********************************************")
-    print("\n"*1)
     print("7. cube :")
     print("***********************************************")
-    print("\n"*1)
     print("8. cuberoot :")
     print("***********************************************")
     print("\n"*1)
@@ -107,7 +101,7 @@ while True :
     else :
         print("invalid input \n")
     print("************************************thank you - prs**************************************")
-    print("\n"*3)
+    print("\n"*2)
 
     
 
